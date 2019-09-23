@@ -39,6 +39,7 @@ const MORSE_TABLE = {
 
 function decode(expr) {
     // write your solution here
+    return '';
 }
 
 module.exports = {
